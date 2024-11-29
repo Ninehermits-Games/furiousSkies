@@ -1,9 +1,9 @@
 const cacheName = "NineHermitsGames-FuriousSkies-1.0";
 const contentToCache = [
-    "Build/0145c752a950e797e3f5c26444736e72.loader.js",
-    "Build/9b3b27f5f63e2d0bdea311fde3c9d436.framework.js",
-    "Build/78b0c71e0b9c5a151dad0bc9ffaa64aa.data",
-    "Build/40754d805bdebca34ca96a570346ab37.wasm",
+    "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+    "Build/9d54f4b190a2023bdebb8d910b3210ef.framework.js",
+    "Build/8e1b7dfd7e1ae6b60fde896c2f777094.data",
+    "Build/243285f516b5bb34ae24cd71ffb0ac71.wasm",
     "TemplateData/style.css"
 
 ];
